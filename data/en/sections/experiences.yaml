@@ -15,8 +15,7 @@ experiences:
     name: Advantest Europe GmbH
     url: "https://www.advantest.com/"
     location: Munich, Germany
-    # company overview
-    overview: Advantest produces test equipment for semi-conductor components.
+    overview: "Advantest Corporation is a Japanese leading manufacturer of automatic test equipment (ATE) for the semiconductor industry. ([Wikipedia](https://en.wikipedia.org/wiki/Advantest))"
   positions:
   - designation: Research and Development Engineer
     start: May 2022
@@ -27,31 +26,94 @@ experiences:
     - Write C++ drivers to interface with the tester hardware
     - Maintain automatic regression tests for the drivers
 
-# - company:
-#     name: PreExample Co.
-#     url: "https://www.example.com"
-#     location: Nowhere
-#     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-#   positions:
-#   - designation: Software Engineer
-#     start: March 2016
-#     end: May 2017
-#     responsibilities:
-#     - Write lots of example codes.
-#     - Read lots of examples.
-#     - See lots of example videos.
+- company:
+    name: German Aerospace Center (DLR)
+    url: "https://www.dlr.de/"
+    location: Oberpfaffenhofen, Germany
+    overview: "The German Aerospace Center (German: Deutsches Zentrum für Luft- und Raumfahrt e.V., literally German Center for Air- and Space-flight), abbreviated DLR, is the national center for aerospace, energy and transportation research of Germany. ([Wikipedia](https://en.wikipedia.org/wiki/German_Aerospace_Center))"
+  positions:
+  - designation: Master Thesis
+    start: October 2021
+    end: March 2022
+    responsibilities:
+    - Write final master thesis on the topic of autonomous uprighting of the MMX Rover.
+    - Develop algorithms to make the uprighting process more reliable.
+    - Design test scenarios and evaluate date in order to compare the algorithms.
 
-# - company:
-#     name: Intern Counting Company (ICC).
-#     url: "https://www.example.com"
-#     location: Intern Land
-#     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-#   positions:
-#   - designation: Intern
-#     start: Jun 2015
-#     end: Jan 2016
-#     responsibilities:
-#     - Count lost of interns.
-#     - Count more interns.
-#     - Count me as an intern.
+- company:
+    name: Technical University of Munich (TUM)
+    url: "https://www.tum.de/"
+    location: Garching, Germany
+  positions:
+  - designation: "Tutor: Basics of Computer Networks and Distributed Systems"
+    start: April 2021
+    end: September 2021
+  - designation: "Tutor: Introduction to Computer Architecture"
+    start: October 2020
+    end: March 2021
+  - designation: "Tutor: Basics of Computer Networks and Distributed Systems"
+    start: April 2020
+    end: September 2020
+  - designation: "Tutor: Basics of Operating Systems and System Software"
+    start: October 2019
+    end: March 2020
+  - designation: "Tutor: Basics of Computer Networks and Distributed Systems"
+    start: April 2019
+    end: September 2019
+  - designation: "Tutor: Practical on Space-Electronics"
+    start: October 2018
+    end: March 2019
+  - designation: "Research Assistant: Chair for Computer Vision and Artificial Intelligence"
+    start: April 2018
+    end: September 2018
+  - designation: "Tutor: Introduction to Computer Science"
+    start: October 2017
+    end: March 2018
+  - designation: "Tutor: Pre-Course Mathematics"
+    start: September 2017
+    end: September 2017
 
+- company:
+    name: Jugenddienst Meran
+    url: "https://www.jugenddienstmeran.it/"
+    location: Meran, Italy
+  positions:
+  - designation: "Youth work"
+    start: July 2015
+    end: July 2015
+
+- company:
+    name: Zeppelin Group GmbH
+    url: "https://www.zeppelin-group.com/"
+    location: Meran, Italy
+  positions:
+  - designation: "Web-Developer"
+    start: June 2014
+    end: August 2014
+
+- company:
+    name: Bestattungsinstitut E. Theiner
+    url: "https://www.bestattungtheiner.com/"
+    location: Meran, Italy
+  positions:
+  - designation: "Office Service"
+    start: June 2013
+    end: August 2013
+
+- company:
+    name: Bestattungsinstitut E. Theiner
+    url: "https://www.bestattungtheiner.com/"
+    location: Meran, Italy
+  positions:
+  - designation: "Office Service"
+    start: June 2013
+    end: August 2013
+
+- company:
+    name: Torggler Willy & Breitenberger Roman GmbH
+    url: "http://www.torgglerwilly.it/"
+    location: Meran, Italy
+  positions:
+  - designation: "Plumber"
+    start: July 2013
+    end: August 2013

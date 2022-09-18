@@ -1,0 +1,90 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: M.Sc. in Robotics, Cognition, Intelligence
+  icon: fa-graduation-cap
+  timeframe: 2019-2022
+  institution:
+    name: Technical University of Munich (TUM)
+    url: "https://www.tum.de/"
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.6
+  #   outOf: 4
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+- name: "B.Sc. in Informatics: Games Engineering"
+  icon: fa-graduation-cap
+  timeframe: 2016-2019
+  institution:
+    name: Technical University of Munich (TUM)
+    url: "https://www.tum.de/"
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.5
+  #   outOf: 4
+  # takenCourses: #(optional)
+  #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+  #   showGrades: true
+  #   collapseAfter: 3
+  #   courses:
+  #   - name: Data Structures and Algorithm
+  #     achieved: 3.75
+  #     outOf: 4
+  #   - name: Network Security
+  #     achieved: 3.80
+  #     outOf: 4
+  #   - name: Operating System
+  #     achieved: 3.5
+  #     outOf: 4
+  #   - name: Artificial Intelligent
+  #     achieved: 3.75
+  #     outOf: 4
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
+  # extracurricularActivities: #(optional)
+  # - In vitae facilisis est, eget porta sem.
+  # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  # - Duis sed massa feugiat, ornare justo et, aliquam est.
+  # - Pellentesque ut fringilla magna.
+
+- name: High School
+  icon: fa-school
+  timeframe: 2011-2016
+  institution:
+    name: Technische Fachoberschule Meran
+    url: "https://www.tfo-meran.it/"
+  # grade: #(optional)
+  #   scale: GPA
+  #   achieved: 5
+  #   outOf: 5
+  # extracurricularActivities: #(optional)
+  # - In vitae facilisis est, eget porta sem.
+  # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  # - Duis sed massa feugiat, ornare justo et, aliquam est.
+  # - Pellentesque ut fringilla magna.
+
+- name: Middle School
+  icon: fa-school
+  timeframe: 2008-2011
+  institution:
+    name: Mittelschule „Meran III“ in Obermais, Meran
+
+- name: Elementary School
+  icon: fa-school
+  timeframe: 2003-2008
+  institution:
+    name: Grundschule „Hermann von Gilm“ in Obermais, Meran

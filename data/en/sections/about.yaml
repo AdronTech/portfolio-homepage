@@ -14,7 +14,7 @@ company:
   url: "https://www.advantest.com/"
 
 # TODO change summary
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.' 
+summary: 
 
 # ? add more social links (Gitlab, )
 socialLinks:
@@ -65,17 +65,22 @@ badges:
 #   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
 #   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+# - type: soft-skill-indicator
+#   name: Willing to Learn
+#   percentage: 100
+#   color: green
 
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
+# - type: soft-skill-indicator
+#   name: Team Work
+#   percentage: 100
+#   color: yellow
 
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 50
-  color: orange
+# - type: soft-skill-indicator
+#   name: Hard Working
+#   percentage: 100
+#   color: orange
+
+# - type: soft-skill-indicator
+#   name: Leadership
+#   percentage: 85
+#   color: blue

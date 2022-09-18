@@ -33,7 +33,7 @@ enableEmoji: true
 params:
 
   # TODO add background image
-  background: "images/background.jpg"
+  background: "images/keyboard.jpg"
 
   # TODO add logo
   # The inverted logo will be used in the initial transparent navbar and
