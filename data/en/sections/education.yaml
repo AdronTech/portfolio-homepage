@@ -16,10 +16,10 @@ degrees:
   institution:
     name: Technical University of Munich (TUM)
     url: "https://www.tum.de/"
-  # grade: #(optional)
-  #   scale: CGPA
-  #   achieved: 3.6
-  #   outOf: 4
+  grade: #(optional)
+    scale: GPA
+    achieved: 1.6
+    outOf: 5
   # publications: #(optional)
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
@@ -29,10 +29,10 @@ degrees:
   institution:
     name: Technical University of Munich (TUM)
     url: "https://www.tum.de/"
-  # grade: #(optional)
-  #   scale: CGPA
-  #   achieved: 3.5
-  #   outOf: 4
+  grade: #(optional)
+    scale: GPA
+    achieved: 1.5
+    outOf: 5
   # takenCourses: #(optional)
   #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
   #   showGrades: true
@@ -67,10 +67,10 @@ degrees:
   institution:
     name: Technische Fachoberschule Meran
     url: "https://www.tfo-meran.it/"
-  # grade: #(optional)
-  #   scale: GPA
-  #   achieved: 5
-  #   outOf: 5
+  grade: #(optional)
+    scale: GPA
+    achieved: 95
+    outOf: 100
   # extracurricularActivities: #(optional)
   # - In vitae facilisis est, eget porta sem.
   # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.

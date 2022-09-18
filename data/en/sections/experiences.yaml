@@ -83,6 +83,15 @@ experiences:
     end: July 2015
 
 - company:
+    name: By Oskar - Light Srl
+    url: "https://www.byoskar-light.it/"
+    location: Meran, Italy
+  positions:
+  - designation: "Event Technician"
+    start: April 2015
+    end: April 2015
+
+- company:
     name: Zeppelin Group GmbH
     url: "https://www.zeppelin-group.com/"
     location: Meran, Italy
@@ -90,15 +99,6 @@ experiences:
   - designation: "Web-Developer"
     start: June 2014
     end: August 2014
-
-- company:
-    name: Bestattungsinstitut E. Theiner
-    url: "https://www.bestattungtheiner.com/"
-    location: Meran, Italy
-  positions:
-  - designation: "Office Service"
-    start: June 2013
-    end: August 2013
 
 - company:
     name: Bestattungsinstitut E. Theiner
