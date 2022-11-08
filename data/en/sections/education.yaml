@@ -65,18 +65,20 @@ degrees:
   icon: fa-school
   timeframe: 2011-2016
   institution:
-    name: Technische Fachoberschule Meran
+    name: Technische Fachoberschule Meran - Electronics, Robotics, Computer Science
     url: "https://www.tfo-meran.it/"
   grade: #(optional)
     scale: GPA
     achieved: 95
     outOf: 100
-  # extracurricularActivities: #(optional)
-  # - In vitae facilisis est, eget porta sem.
-  # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  # - Duis sed massa feugiat, ornare justo et, aliquam est.
-  # - Pellentesque ut fringilla magna.
-
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    # showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Electronics (Theory + Lab)
+    - name: Automation (Theory + Lab)
+    - name: Technology and design of electrical systems (Theory + Lab)
 - name: Middle School
   icon: fa-school
   timeframe: 2008-2011
