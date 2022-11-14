@@ -24,6 +24,37 @@ experiences:
     responsibilities:
     - Write C++ drivers to interface with the tester hardware
     - Maintain automatic regression tests for the drivers
+    - Develop tooling to improve development workflow
+
+- company:
+    name: Scientific Workgroup for Rocketry and Spaceflight (WARR)
+    url: "https://www.warr.de/"
+    location: Garching, Germany
+    overview: "The Scientific Workgroup for Rocketry and Spaceflight (WARR) (German: Wissenschaftliche Arbeitsgemeinschaft für Raketentechnik und Raumfahrt) is a scientific workgroup situated at Technical University of Munich, composed mainly of its students. It was founded by students in 1962 with the goal to compensate for the lack of a chair for space technology at the university at the time. Since the establishment of such a chair in 1966, the group has conducted practical projects, starting with the first successful development and of a hybrid rocket in Germany. One rocket of this type was launched in 1972, another is on permanent display at Deutsches Museum. WARR has attained some public attention by for its projects in space elevator competitions,small satellites, interstellar spaceflight concepts, and for winning all SpaceX Hyperloop pod competitions.
+
+    Currently, WARR works in the fields of hybrid propulsion, satellite technology, robotics, and transportation technologies.
+
+    ([Wikipedia](https://en.wikipedia.org/wiki/WARR_(TUM)))"
+  positions:
+  - designation: Project Co-Lead
+    start: August 2019
+    end: July 2021
+    responsibilities:
+    - Plan project timeline
+    - Coach new members
+    - Manage 30-35 people
+  - designation: Software Team Lead
+    start: February 2019
+    end: October 2020
+    responsibilities:
+    - Organize a team of 6-9 software developers
+    - Guide new developers
+  - designation: IT Admin
+    start: August 2019
+    end: October 2021
+    responsibilities:
+    - Supervise IT infrastructure
+    - Orchestrate Email, File and Permission Server
 
 - company:
     name: German Aerospace Center (DLR)
@@ -43,6 +74,12 @@ experiences:
     name: Technical University of Munich (TUM)
     url: "https://www.tum.de/"
     location: Garching, Germany
+    overview:
+      "Responsibilities Tutor positions:\n
+      - Give tutoring lessons each week\n
+      - Grade homework of students\n
+      - Grade final exam of students
+      "
   positions:
   - designation: "Tutor: Basics of Computer Networks and Distributed Systems"
     start: April 2021
@@ -65,6 +102,9 @@ experiences:
   - designation: "Research Assistant: Chair for Computer Vision and Artificial Intelligence"
     start: April 2018
     end: September 2018
+    responsibilities:
+    - Develop stereo camera test bench with inertial measurement unit (IMU)
+    - Develop algorithm for automatic exposure calibration for stereo camera setup
   - designation: "Tutor: Introduction to Computer Science"
     start: October 2017
     end: March 2018
@@ -80,6 +120,9 @@ experiences:
   - designation: "Youth work"
     start: July 2015
     end: July 2015
+    responsibilities:
+    - Take care of 30 kids for a week
+    - Organize fun entertainment program
 
 - company:
     name: By Oskar - Light Srl
@@ -89,6 +132,9 @@ experiences:
   - designation: "Event Technician"
     start: April 2015
     end: April 2015
+    responsibilities:
+    - Set up and tear down sound and lighting equipment on events
+    - Supervise sound and lighting during events
 
 - company:
     name: Zeppelin Group GmbH
@@ -98,6 +144,9 @@ experiences:
   - designation: "Web-Developer"
     start: June 2014
     end: August 2014
+    responsibilities:
+    - Program email newsletter
+    - Fix bugs on client websites
 
 - company:
     name: Bestattungsinstitut E. Theiner
@@ -107,6 +156,10 @@ experiences:
   - designation: "Office Service"
     start: June 2013
     end: August 2013
+    responsibilities:
+    - Take calls
+    - Layout death cards
+    - Prepare funeral equipment
 
 - company:
     name: Torggler Willy & Breitenberger Roman GmbH
@@ -116,3 +169,6 @@ experiences:
   - designation: "Plumber"
     start: July 2013
     end: August 2013
+    responsibilities:
+    - Help plumbing
+    - Add insulation to pipes
