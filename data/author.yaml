@@ -1,5 +1,5 @@
 # some information about you
-name: "Markus Gögele"
+name: "M.Sc. Markus Gögele"
 nickname: "Markus Gögele (AdronTech)"
 image: "images/profile.jpg"
 
@@ -11,9 +11,11 @@ contactInfo:
   email: "markus.goegele@hotmail.com"
   phone: "+4917647107876"
 
-
-# TODO add more things what i do
 # a summary of what you do
 summary:
-- I am a Developer
-- I love to work with some fun projects
+- I am an Embedded Software Developer
+- I love Space
+- I love Robotics
+- Never stop learning
+- Software - Electronics - Robotics - Embedded Systems
+- On my quest to learn new stuff

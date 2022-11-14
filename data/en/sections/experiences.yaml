@@ -3,12 +3,11 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 3
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
 
-# TODO add more experiences
 # Your experiences
 experiences:
 - company:
