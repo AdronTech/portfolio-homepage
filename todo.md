@@ -14,10 +14,7 @@
 
 ## Experience
 > add description to each of the jobs
-* WARR
-  * Project Lead
-  * IT Lead
-  * IT Admin
+* Jungschar
 
 ## Education
 * add courses
