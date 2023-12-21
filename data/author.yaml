@@ -1,7 +1,7 @@
 # some information about you
 name: "M.Sc. Markus Gögele"
 nickname: "Markus Gögele (AdronTech)"
-image: "images/profile.jpg"
+image: "images/profile.png"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"

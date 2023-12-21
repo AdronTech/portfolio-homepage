@@ -11,6 +11,34 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: TNG Technology Consulting GmbH
+    url: "https://www.tngtech.com/"
+    location: Unterföhring, Germany
+    overview: "is a values-based consulting partnership focused on high end information technology.
+
+
+We support our clients with state-of-the-art tools and innovative ideas. Our mission is to analyze and solve the strategic or routine IT problems our clients have.
+
+
+By relying on teamwork and fast communication, each client can access the whole pool of company expertise.
+
+
+We hire only the best experts. Our people have the freedom to grow and the responsibility to do so. We believe that a rational cooperation between ourselves and our clients is both achievable and mutually beneficial. 
+
+
+([tngtech.com](https://www.tngtech.com/))"
+  positions:
+  - designation: Software Consultant
+    start: April 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Technology consulting
+    - Frontend (Angular)
+    - Backend (Java/Kotlin)
+
+- company:
     name: Advantest Europe GmbH
     url: "https://www.advantest.com/"
     location: Munich, Germany
@@ -18,8 +46,7 @@ experiences:
   positions:
   - designation: Research and Development Engineer
     start: May 2022
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Jan 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Write C++ drivers to interface with the tester hardware
