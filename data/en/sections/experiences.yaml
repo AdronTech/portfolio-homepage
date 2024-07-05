@@ -11,6 +11,18 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: OroraTech GmbH
+    url: "https://ororatech.com/"
+    location: Munich, Germany
+    overview: is an intelligence-as-a-service company delivering thermal intelligence for a sustainable Earth with the help of earth observation satellites.
+positions:
+- designation: Satellite Software Engineer
+  start: May 2024
+  responsibilities:
+  - Embedded satellite software
+  - Test satellite hardwar
+
+- company:
     name: TNG Technology Consulting GmbH
     url: "https://www.tngtech.com/"
     location: Unterföhring, Germany
@@ -31,7 +43,7 @@ We hire only the best experts. Our people have the freedom to grow and the respo
   - designation: Software Consultant
     start: April 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: April 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Technology consulting
@@ -42,7 +54,7 @@ We hire only the best experts. Our people have the freedom to grow and the respo
     name: Advantest Europe GmbH
     url: "https://www.advantest.com/"
     location: Munich, Germany
-    overview: "Advantest Corporation is a Japanese leading manufacturer of automatic test equipment (ATE) for the semiconductor industry. ([Wikipedia](https://en.wikipedia.org/wiki/Advantest))"
+    overview: "is a Japanese leading manufacturer of automatic test equipment (ATE) for the semiconductor industry. ([Wikipedia](https://en.wikipedia.org/wiki/Advantest))"
   positions:
   - designation: Research and Development Engineer
     start: May 2022
@@ -57,7 +69,7 @@ We hire only the best experts. Our people have the freedom to grow and the respo
     name: Scientific Workgroup for Rocketry and Spaceflight (WARR)
     url: "https://www.warr.de/"
     location: Garching, Germany
-    overview: "WARR (short for Scientific Workgroup for Rocketry and Spaceflight - German: Wissenschaftliche Arbeitsgemeinschaft für Raketentechnik und Raumfahrt) is a scientific workgroup based at the Technical University of Munich (TUM). It was founded by students to compensate for the lack of a chair for space technology at TUM in 1962. All started with the development of rocket engines, but now there are much more projects. Multi-stage Rockets, Satelites, Stratosphere Balloons, Space Elevators and since recently, our Rover."
+    overview: "(German: Wissenschaftliche Arbeitsgemeinschaft für Raketentechnik und Raumfahrt) is a scientific workgroup based at the Technical University of Munich (TUM). It was founded by students to compensate for the lack of a chair for space technology at TUM in 1962. All started with the development of rocket engines, but now there are much more projects. Multi-stage Rockets, Satelites, Stratosphere Balloons, Space Elevators and since recently, our Rover."
   positions:
   - designation: Project Co-Lead
     start: August 2019
@@ -83,7 +95,7 @@ We hire only the best experts. Our people have the freedom to grow and the respo
     name: German Aerospace Center (DLR)
     url: "https://www.dlr.de/"
     location: Oberpfaffenhofen, Germany
-    overview: "The German Aerospace Center (German: Deutsches Zentrum für Luft- und Raumfahrt e.V., literally German Center for Air- and Space-flight), abbreviated DLR, is the national center for aerospace, energy and transportation research of Germany. ([Wikipedia](https://en.wikipedia.org/wiki/German_Aerospace_Center))"
+    overview: "(German: Deutsches Zentrum für Luft- und Raumfahrt e.V., literally German Center for Air- and Space-flight), is the national center for aerospace, energy and transportation research of Germany. ([Wikipedia](https://en.wikipedia.org/wiki/German_Aerospace_Center))"
   positions:
   - designation: Master Thesis
     start: October 2021
