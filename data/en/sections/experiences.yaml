@@ -15,12 +15,12 @@ experiences:
     url: "https://ororatech.com/"
     location: Munich, Germany
     overview: is an intelligence-as-a-service company delivering thermal intelligence for a sustainable Earth with the help of earth observation satellites.
-positions:
-- designation: Satellite Software Engineer
-  start: May 2024
-  responsibilities:
-  - Embedded satellite software
-  - Test satellite hardwar
+  positions:
+  - designation: Satellite Software Engineer
+    start: May 2024
+    responsibilities:
+    - Embedded satellite software
+    - Test satellite hardwar
 
 - company:
     name: TNG Technology Consulting GmbH
