@@ -28,6 +28,9 @@
     }
   },
   "dependencies": {},
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "dev": "hugo server -D",
     "build": "hugo --gc --minify"

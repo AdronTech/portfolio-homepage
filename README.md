@@ -11,9 +11,9 @@ git submodule update --init --recursive
 ```
 
 ### 1) Prerequisites
-- Hugo Extended (tested with `0.120.1`)
-- Node.js (`v18.x` recommended)
-- npm (`8.x` recommended)
+- Hugo Extended (tested with `0.157.0`)
+- Node.js (`v22.x` recommended)
+- npm (`10.x` recommended)
 
 Check tools:
 
