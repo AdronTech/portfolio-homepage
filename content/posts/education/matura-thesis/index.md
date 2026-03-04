@@ -10,12 +10,12 @@ menu:
     weight: 400
 ---
 
-For the final project in high school we had to conceptualize and build an embedded system.
-The heart of project should be a micro-controller and all the printed circuit boards (PCBs) should be custom made.
-All the libraries for the build in peripherals of the embedded micro-controller should also been written from scratch.
+For the final project in high school, we had to conceptualize and build an embedded system.
+The heart of the project had to be a microcontroller, and all printed circuit boards (PCBs) had to be custom-made.
+All libraries for the built-in peripherals of the embedded microcontroller also had to be written from scratch.
 
 ### Goal
-Each student had the task to find a project in the scope of one school year. In my case I decided to make a hexacopter running on a STM32 micro-controller. The drone should have active stabilization in all three rotary axis and additionally it should feature RGB lighting to indicate different states of the drone.
+Each student had to define a project within the scope of one school year. In my case, I decided to build a hexacopter running on an STM32 microcontroller. The drone needed active stabilization on all three rotational axes and RGB lighting to indicate different operating states.
 
 ### Learnings
-From the project I learned first how to program a C++ project in an embedded environment, how a PID control loop works and how a drone realizes motor mixing.
+From this project, I learned how to build a C++ application in an embedded environment, how PID control loops work, and how drones implement motor mixing.

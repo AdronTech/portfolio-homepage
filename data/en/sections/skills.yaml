@@ -14,13 +14,13 @@ section:
 skills:
 - name: C++
   # logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Strong C/C++ foundation used for embedded development and problem solving."
 
 - name: Git
   # logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with Git-based workflows, including GitHub and GitLab collaboration."
   url: "https://git-scm.com/"
 
 - name: Linux
   # logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Daily Linux user with practical Bash/shell scripting experience."

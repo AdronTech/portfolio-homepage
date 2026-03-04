@@ -14,31 +14,20 @@ experiences:
     name: OroraTech GmbH
     url: "https://ororatech.com/"
     location: Munich, Germany
-    overview: is an intelligence-as-a-service company delivering thermal intelligence for a sustainable Earth with the help of earth observation satellites.
+    overview: Intelligence-as-a-service company delivering thermal intelligence with Earth observation satellites to support wildfire detection and monitoring.
   positions:
   - designation: Satellite Software Engineer
     start: May 2024
     responsibilities:
-    - Embedded satellite software
-    - Test satellite hardwar
+    - Develop embedded software for satellite and payload subsystems
+    - Build and execute hardware-in-the-loop and integration test campaigns
+    - Improve software reliability through verification, debugging, and mission-focused tooling
 
 - company:
     name: TNG Technology Consulting GmbH
     url: "https://www.tngtech.com/"
     location: Unterföhring, Germany
-    overview: "is a values-based consulting partnership focused on high end information technology.
-
-
-We support our clients with state-of-the-art tools and innovative ideas. Our mission is to analyze and solve the strategic or routine IT problems our clients have.
-
-
-By relying on teamwork and fast communication, each client can access the whole pool of company expertise.
-
-
-We hire only the best experts. Our people have the freedom to grow and the responsibility to do so. We believe that a rational cooperation between ourselves and our clients is both achievable and mutually beneficial. 
-
-
-([tngtech.com](https://www.tngtech.com/))"
+    overview: Values-based consulting partnership focused on high-end information technology. TNG supports clients with state-of-the-art tools and innovative ideas to solve strategic and operational IT challenges.
   positions:
   - designation: Software Consultant
     start: April 2023
@@ -46,9 +35,10 @@ We hire only the best experts. Our people have the freedom to grow and the respo
     end: April 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Technology consulting
-    - Frontend (Angular)
-    - Backend (Java/Kotlin)
+    - Delivered technology consulting for enterprise software projects
+    - Implemented frontend features and architecture in Angular
+    - Developed backend services and APIs using Java and Kotlin
+    - Collaborated with cross-functional teams to deliver production-ready solutions
 
 - company:
     name: Advantest Europe GmbH
@@ -69,7 +59,7 @@ We hire only the best experts. Our people have the freedom to grow and the respo
     name: Scientific Workgroup for Rocketry and Spaceflight (WARR)
     url: "https://www.warr.de/"
     location: Garching, Germany
-    overview: "(German: Wissenschaftliche Arbeitsgemeinschaft für Raketentechnik und Raumfahrt) is a scientific workgroup based at the Technical University of Munich (TUM). It was founded by students to compensate for the lack of a chair for space technology at TUM in 1962. All started with the development of rocket engines, but now there are much more projects. Multi-stage Rockets, Satelites, Stratosphere Balloons, Space Elevators and since recently, our Rover."
+  overview: "(German: Wissenschaftliche Arbeitsgemeinschaft für Raketentechnik und Raumfahrt) is a student scientific workgroup at TUM. It started with rocket engine development and now spans multiple projects, including multi-stage rockets, satellites, stratospheric balloons, and rover systems."
   positions:
   - designation: Project Co-Lead
     start: August 2019
@@ -103,7 +93,7 @@ We hire only the best experts. Our people have the freedom to grow and the respo
     responsibilities:
     - Write final master thesis on the topic of autonomous uprighting of the MMX Rover.
     - Develop algorithms to make the uprighting process more reliable.
-    - Design test scenarios and evaluate date in order to compare the algorithms.
+    - Design test scenarios and evaluate data in order to compare the algorithms.
 
 - company:
     name: Technical University of Munich (TUM)

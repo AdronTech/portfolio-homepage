@@ -7,20 +7,18 @@ section:
   template: sections/about.html # allows you to point to a specific template.
 
   # your designation
-designation: Software Consultant
+designation: Satellite Software Engineer
 # your company information
 company:
-  name: TNG Technology Consulting GmbH
-  url: "https://www.tngtech.com/"
+  name: OroraTech GmbH
+  url: "https://ororatech.com/"
 
 # TODO change summary
 summary: 
-  I am a passionate developer. 
-  I love the interaction of software, electronics and mechanics.
-  Therefore I studied Computer Science with a focus on Robotics.
-  One of my big interests is space as I think it poses interesting challenges with unique solutions.
-  In my free-time I like to thinker and build small projects.
-  I love to learn new stuff and acquire new skills in order to solve new problems.
+  I am a passionate engineer who enjoys working at the intersection of software, electronics, and mechanics.
+  I studied computer science with a focus on robotics and enjoy solving complex problems in embedded systems.
+  Space technology is one of my biggest interests because it combines demanding constraints with innovative engineering.
+  In my free time, I build small projects and continuously learn new skills.
 
 # ? add more social links (Gitlab, )
 socialLinks:
