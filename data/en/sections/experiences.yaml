@@ -16,12 +16,20 @@ experiences:
     location: Munich, Germany
     overview: Intelligence-as-a-service company delivering thermal intelligence with Earth observation satellites to support wildfire detection and monitoring.
   positions:
+  - designation: Senior Satellite Software Engineer
+    start: Mar 2026
+    responsibilities:
+    - Lead satellite software engineer and mission technical owner
+    - Drove a mission from development to launch, taking on primary ownership of flight software decisions and post-launch operations
+    - Interface with customers to define requirements and operational conditions for upcoming missions
+    - Drive cross-mission architecture decisions and lead code reviews to raise engineering standards and reduce integration overhead
   - designation: Satellite Software Engineer
     start: May 2024
+    end: Feb 2026
     responsibilities:
-    - Develop embedded software for satellite and payload subsystems
-    - Build and execute hardware-in-the-loop and integration test campaigns
-    - Improve software reliability through verification, debugging, and mission-focused tooling
+    - Develop flight software to configure, control and collect telemetry from distributed subsystems (power, COM, ADCS, Payloads) via multi-protocol communication
+    - Implement autonomous deployment and fault recovery logic for safe satellite initialization without ground intervention
+    - Build developer tooling and testing infrastructure to streamline firmware development, integration, and deployment workflows
 
 - company:
     name: TNG Technology Consulting GmbH
@@ -35,10 +43,8 @@ experiences:
     end: April 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Delivered technology consulting for enterprise software projects
-    - Implemented frontend features and architecture in Angular
-    - Developed backend services and APIs using Java and Kotlin
-    - Collaborated with cross-functional teams to deliver production-ready solutions
+    - Built an Angular frontend for a service status tool enabling users to subscribe to incident and outage notifications
+    - Developed business logic and inter-service communication for an insurance contract flow backend using Spring Boot within a team of 4–5 developers
 
 - company:
     name: Advantest Europe GmbH
@@ -46,14 +52,13 @@ experiences:
     location: Munich, Germany
     overview: "is a Japanese leading manufacturer of automatic test equipment (ATE) for the semiconductor industry. ([Wikipedia](https://en.wikipedia.org/wiki/Advantest))"
   positions:
-  - designation: Research and Development Engineer
+  - designation: R&D Engineer
     start: May 2022
     end: Jan 2023
-    # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Write C++ drivers to interface with the tester hardware
-    - Maintain automatic regression tests for the drivers
-    - Develop tooling to improve development workflow
+    - Developed a High-Voltage module driver that serializes test program instructions into a custom hardware format and configures the module for sequence execution
+    - Integrated the new High-Voltage module into the main software, enabling full programmatic control from the test framework
+    - Built a lightweight C++ testing framework to simplify test case setup and verify driver correctness
 
 - company:
     name: Scientific Workgroup for Rocketry and Spaceflight (WARR)
@@ -65,15 +70,15 @@ experiences:
     start: August 2019
     end: July 2021
     responsibilities:
-    - Plan project timeline
-    - Coach new members
-    - Manage 30-35 people
-  - designation: Software Team Lead
-    start: February 2019
+    - Co-managed 30-person student project for ESA-affiliated competitions
+    - Plan project timeline and coach new members
+  - designation: Software Sub-team Lead
+    start: February 2017
     end: October 2020
     responsibilities:
-    - Organize a team of 6-9 software developers
-    - Guide new developers
+    - Led software team of 6–9 developers building autonomous rover systems
+    - Designed a rover capable of sintering regolith with concentrated sunlight
+    - Built autonomous rover systems including BLDC motor control and drive firmware
   - designation: IT Admin
     start: August 2019
     end: October 2021
@@ -91,9 +96,10 @@ experiences:
     start: October 2021
     end: March 2022
     responsibilities:
-    - Write final master thesis on the topic of autonomous uprighting of the MMX Rover.
-    - Develop algorithms to make the uprighting process more reliable.
-    - Design test scenarios and evaluate data in order to compare the algorithms.
+    - "Autonomous uprighting of the MMX Rover (JAXA Phobos/Deimos mission)"
+    - Developed dynamic unfolding strategies to improve MMX Rover deployment success in near-zero gravity on Phobos
+    - Used onboard gyroscope data to design unfolding sequences that maximize the probability of correct surface orientation
+    - Validated concepts through extensive simulation runs
 
 - company:
     name: Technical University of Munich (TUM)

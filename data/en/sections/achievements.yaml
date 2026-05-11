@@ -1,0 +1,32 @@
+section:
+  name: Achievements
+  id: achievements
+  template: sections/accomplishments.html
+  enable: true
+  weight: 6
+  showOnNavbar: true
+
+accomplishments:
+- name: Elite Scholarship
+  timeline: "2019 – 2021"
+  organization:
+    name: Max-Weber Programm
+  courseOverview: ""
+
+- name: Scholarship
+  timeline: "2017 – 2019"
+  organization:
+    name: Deutschlandstipendium
+  courseOverview: ""
+
+- name: best.in.tum
+  timeline: "2017"
+  organization:
+    name: Technical University of Munich
+  courseOverview: "Among top 2% of incoming cohort."
+
+- name: Volunteering
+  timeline: "2011 – 2021"
+  organization:
+    name: Various organizations
+  courseOverview: ""

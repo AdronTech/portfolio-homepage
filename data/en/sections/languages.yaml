@@ -1,0 +1,16 @@
+section:
+  name: Languages
+  id: languages
+  enable: true
+  weight: 7
+  showOnNavbar: true
+
+languages:
+- name: German
+  proficiency: Native / Full professional proficiency
+
+- name: English
+  proficiency: Full professional proficiency
+
+- name: Italian
+  proficiency: Conversational

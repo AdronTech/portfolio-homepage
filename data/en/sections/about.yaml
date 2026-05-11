@@ -7,7 +7,7 @@ section:
   template: sections/about.html # allows you to point to a specific template.
 
   # your designation
-designation: Satellite Software Engineer
+designation: Senior Satellite Software Engineer
 # your company information
 company:
   name: OroraTech GmbH

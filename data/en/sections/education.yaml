@@ -61,11 +61,11 @@ degrees:
   # - Duis sed massa feugiat, ornare justo et, aliquam est.
   # - Pellentesque ut fringilla magna.
 
-- name: High School
+- name: "High School — Electronics and Automation"
   icon: fa-school
   timeframe: 2011-2016
   institution:
-    name: Technische Fachoberschule Meran - Electronics, Robotics, Computer Science
+    name: Technische Fachoberschule Meran
     url: "https://www.tfo-meran.it/"
   grade: #(optional)
     scale: GPA
